@@ -1,0 +1,28 @@
+{
+  "users": [
+      {
+        "id": 1,
+        "name": "Nguyễn Văn An",
+        "email": "nguyenvanan@gmail.com",
+        "phone": "0912345678",
+        "avatar": "https://example.com/avatars/an.jpg",
+        "dateOfBirth": "1990-05-15T00:00:00.000Z"
+      },
+      {
+        "id": 2,
+        "name": "Trần Thị Bình",
+        "email": "tranthibinh@gmail.com",
+        "phone": "0923456789",
+        "avatar": null,
+        "dateOfBirth": "1985-11-20T00:00:00.000Z"
+      },
+      {
+        "id": 3,
+        "name": "Trương Bình Minh",
+        "email": "tranthibinhminh@gmail.com",
+        "phone": "1923456789",
+        "avatar": null,
+        "dateOfBirth": "1982-11-20T00:00:00.000Z"
+      }
+  ]
+}
